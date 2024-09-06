@@ -30,7 +30,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="About.jsp" class="navlinks">
+                    <a href="about.jsp" class="navlinks">
                         <img src="assets/images/icons/about.png" alt="About"><span class="hidden-sm-down">About Us</span>
                     </a>
                 </li>
@@ -45,7 +45,7 @@
                     </a>
                 </li>
                 <li>
-                    <a target="_blank" href="sitemap.jsp" class="navlinks">
+                    <a href="sitemap.jsp" class="navlinks">
                         <img src="assets/images/icons/sitemap.png" alt="calendar icon"><span class="hidden-sm-down">Site Map</span>
                     </a>
                 </li>

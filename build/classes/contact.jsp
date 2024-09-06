@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<%@ include file="navbar.jsp" %>
+ <%@ include file="navbar.jsp" %>
 
 <section class="contactus-section">
 <div class="demo">

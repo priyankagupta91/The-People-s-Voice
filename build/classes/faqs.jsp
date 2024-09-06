@@ -10,7 +10,7 @@
 <%@ include file="headlinks.jsp" %>
 </head>
 <body>
-<%@ include file="navbar.jsp" %>
+ <%@ include file="navbar.jsp" %>
 
 <section class="faqs mb-3 mt-3">
 

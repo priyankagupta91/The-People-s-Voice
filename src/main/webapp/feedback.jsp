@@ -10,7 +10,7 @@
 <%@ include file="headlinks.jsp" %>
 </head>
 <body>
-<%@ include file="navbar.jsp" %>
+ <%@ include file="navbar.jsp" %>
 
 <!-- Sign up form -->
     <section class="signup mt-3 signup-section">

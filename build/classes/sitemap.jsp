@@ -15,7 +15,7 @@
 
  
 
-    <%@ include file="navbar.jsp" %>
+<%@ include file="navbar.jsp" %>
     <!--  --> <section class="faq-section">
     <!-- <h2 class="faq-container-h2">FAQ</h2> -->
     <div class="faq-container">

@@ -11,7 +11,6 @@
 </head>
 <body>
 <%@ include file="navbar.jsp" %>
-
 <!-- Sign up form -->
     <section class="signup mt-3 signup-section">
         <div class="container">

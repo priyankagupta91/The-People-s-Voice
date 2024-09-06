@@ -10,8 +10,7 @@
 <%@ include file="headlinks.jsp" %>
 </head>
 <body>
-<%@ include file="navbar.jsp" %>
-
+<%@ include file=navbar.jsp" %>
 
 <!-- Sign in Form -->
     <section class="sign-in mb-5 mt-3 signin-section">

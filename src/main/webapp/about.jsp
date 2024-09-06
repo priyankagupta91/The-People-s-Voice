@@ -85,25 +85,26 @@
       <div class="col-lg-3 col-md-6">
         <div class="card border-0 shadow-sm about-card">
           <div class="team-img-container">
-            <img src="https://images.unsplash.com/photo-1480429370139-e0132c086e2a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fG1hbiUyMGZ1bGwlMjBwaG90b3xlbnwwfHwwfHx8MA%3D%3D" class="card-img-top" alt="Team Member">
-          </div>
-          <div class="card-body text-center">
-            <h5 class="card-title">Prabhu Prakash</h5>
-            <p class="card-text text-muted">Frontend Devloper</p>
-            
-          </div>
-        </div>
-      </div>
-      <!-- Team Member 3 -->
-      <div class="col-lg-3 col-md-6">
-        <div class="card border-0 shadow-sm about-card">
-          <div class="team-img-container">
-            <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fG1hbiUyMGZ1bGwlMjBwaG90b3xlbnwwfHwwfHx8MA%3D%3D" class="card-img-top" alt="Team Member">
+<img src="assets/images/team/team3.jpeg" class="card-img-top" alt="Team Member">
           </div>
           <div class="card-body text-center">
             <h5 class="card-title">Priyanka Gupta</h5>
             <p class="card-text text-muted">Frontend Devloper</p>
            
+          </div>
+        </div>
+      </div>
+      
+      <!-- Team Member 3 -->
+      <div class="col-lg-3 col-md-6">
+        <div class="card border-0 shadow-sm about-card">
+          <div class="team-img-container">
+            <img src="assets/images/team/team2.jpeg" class="card-img-top" alt="Team Member">
+          </div>
+          <div class="card-body text-center">
+            <h5 class="card-title">Prabhu Prakash</h5>
+            <p class="card-text text-muted">Frontend Devloper</p>
+            
           </div>
         </div>
       </div>

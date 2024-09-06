@@ -11,8 +11,7 @@
 </head>
 
 <body>
-           <%@ include file="navbar.jsp" %>
-           
+<%@ include file="navbar.jsp" %>           
            
             <!-- faq's are starting  -->
  <section class="schemes-section">

@@ -14,8 +14,7 @@
 
     <div class="main">
 
-    <%@ include file="navbar/navbar.jsp" %>
-
+<%@ include file="navbar.jsp" %>
 
         <!-- banner section -->
 
